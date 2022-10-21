@@ -1,7 +1,5 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Website URL
 
 [Click Here](https://breaking-bad-better-call-saul-api.vercel.app/)
