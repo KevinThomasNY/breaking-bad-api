@@ -6,7 +6,7 @@
 
 ## Summary
 
-This is a React.js application that displays character information from the shows Breaking Bad and Beter Call Saul. The API that was from https://breakingbadapi.com/documentation
+This is a React.js application that displays character information from the shows Breaking Bad and Beter Call Saul. The API is from https://breakingbadapi.com/documentation
 
 ### `npm start`
 
